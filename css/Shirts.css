@@ -1,0 +1,27 @@
+ .body{ margin-top: 30px;
+ 	    margin-left: 20px;
+  }
+
+ .sizes{border-radius: 50%;
+ 	    height: 40px;
+ 	    width: 40px;
+ 	    border: none;
+ 	    margin: 0.5rem;
+ 	    font-size: 12px;
+
+
+ }
+
+ .card-text3{color: grey;}
+
+ 
+
+ .fship{ background-color: black;
+ 	     color: white;
+ 	     font-size: 0.5rem;
+ 	     width: 20px;
+  }
+
+   .cart:hover;{color: orange;}
+
+   .row2{margin-top: 20px;}
